@@ -1,0 +1,7 @@
+{
+  "browsertime": {
+    "iterations": 5,
+    "browser": "chrome",
+  },
+  "preScript": "scripts/search/login.js"
+}

@@ -4,6 +4,8 @@ Sitespeed - monitoring aplikacji frontend od A do Z" [PL]
 
 <https://github.com/pats/MonitorFrontendPerformance> 
 
+[preview](https://pats.github.io/MonitorFrontendPerformance/)
+
 
 ## License
 
